@@ -17,7 +17,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | Stubby          | [gRPC](https://github.com/grpc/grpc)     | [Thrift](https://github.com/apache/thrift), [Bolt](https://boltprotocol.org/) |
 | Chubby          |                                          | [Apache Zookeeper](https://github.com/apache/zookeeper), [etcd](https://github.com/coreos/etcd), [HashiCorp Consul](https://github.com/hashicorp/consul) |
 | Goops / PubSub  |                                          | [Apache Kafka](https://github.com/apache/kafka), [Apache Pulsar](https://github.com/apache/incubator-pulsar), [Facebook LogDevice](https://github.com/facebookincubator/LogDevice) |
-
+| [Dapper](https://ai.google/research/pubs/pub36356) |       | [OpenTracing](https://opentracing.io/), [jaeger](https://www.jaegertracing.io/), [LightStep](https://lightstep.com), [Honeycomb](https://www.honeycomb.io/trace/) |
 
 ### Infrastructure
 
@@ -42,6 +42,7 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | ColumnIO / [Capacitor](https://cloud.google.com/blog/big-data/2016/04/inside-capacitor-bigquerys-next-generation-columnar-storage-format) |                                          | [Apache Parquet](http://parquet.apache.org) |
 | sstable                                  | [levelDB](https://github.com/google/leveldb) | [RocksDB](https://rocksdb.org)           |
 | zippy                                    | [Snappy](https://github.com/google/snappy) | [lz4](https://github.com/lz4/lz4)        |
+| RecordIO                                 | [TFRecords](https://github.com/tensorflow/docs/blob/r1.10/site/en/api_guides/python/python_io.md#tfrecords-format-details) | |
 
 
 ### Services
