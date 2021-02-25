@@ -10,6 +10,8 @@ email lists
 
 #### secops, privacy
 - https://www.hackerone.com/blog/security-vendors-startups-lob-cant-live-without
+- https://12factor.net/
+- https://cheatsheetseries.owasp.org/index.html
 - https://sudo.pagerduty.com/
 - [vendor sec assessment](https://blogs.dropbox.com/tech/2019/03/towards-better-vendor-security-assessments/)
 - https://haveibeenpwned.com/
@@ -22,6 +24,8 @@ email lists
   - https://cure53.de/
 - https://application.security/
 - https://snyk.io/
+- https://doppler.com/
+- https://github.com/rawdigits/go-flashpaper
 
 #### compliance
 - https://github.com/pivotal/LicenseFinder
@@ -31,6 +35,7 @@ email lists
 - [google SRE book](https://landing.google.com/sre/book/index.html)
 - getting infra-as-code off the ground (terraform): https://gruntwork.io/
 - https://github.com/etsy/DebriefingFacilitationGuide
+- https://how.complexsystems.fail/
 
 #### refactoring
 - https://refactoring.guru/
